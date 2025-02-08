@@ -1,4 +1,3 @@
-```markdown
 # **Installing Scarb and Starknet Foundry on Linux**
 
 This guide will walk you through installing **Scarb** (the Cairo package manager) and **Starknet Foundry** on Linux using `asdf`.
