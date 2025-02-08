@@ -65,7 +65,6 @@ Check if it was installed successfully:
 ```sh
 snforge --version
 sncast --version
-snnode --version
 ```
 
 ---
