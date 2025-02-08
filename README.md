@@ -71,5 +71,4 @@ snnode --version
 ---
 
 ### **You're all set! 🚀**
-Now you can use **Scarb** for Cairo development and **Starknet Foundry** for testing and smart contract deployment. Let me know if you need any further tweaks!
-```
+Now you can use **Scarb** for Cairo development and **Starknet Foundry** for testing and smart contract deployment. Let me know if you have any issues installing any of the packages/tools!
